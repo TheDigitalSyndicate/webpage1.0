@@ -1,0 +1,41 @@
+/* Tags */
+
+body { background-color: black ;
+font-size: 100%;}
+a{ color : #5CE1E6; }
+
+/* CLASSES */
+.container-fluid{
+    border:  2px solid #5CE1E6;
+    width: 100%;
+    padding: 0px 10%;
+    margin: auto;
+}
+
+img.syndicateicon{
+    width : 120px;
+    height : 120px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-custom {
+    background-color: black;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: #5CE1E6;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url( images/toggler.png )
+}
+
+a.textsize{
+    font-size: 2em; 
+}
+
+
+/* ID */
